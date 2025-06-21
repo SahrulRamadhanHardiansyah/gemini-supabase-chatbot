@@ -24,7 +24,7 @@ Ini adalah proyek aplikasi web chatbot canggih yang dibangun menggunakan Next.js
   - **Framework**: Next.js 15+ (App Router)
   - **Bahasa**: TypeScript
   - **Styling**: Tailwind CSS v4 (dengan `@tailwindcss/typography`)
-  - **AI Model**: Google Gemini API (`gemini-1.5-flash-latest`)
+  - **AI Model**: Google Gemini API (`gemini-2.5-flash`)
   - **Backend & Database**: Supabase (Postgres Database, Authentication, RLS)
   - **UI & Rendering**: React, `react-markdown` untuk menampilkan respons AI.
 
