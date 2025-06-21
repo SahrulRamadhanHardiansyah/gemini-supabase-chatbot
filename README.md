@@ -43,8 +43,8 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 1.  **Clone repositori ini:**
 
     ```bash
-    git clone https://github.com/username-anda/nama-repositori-ini.git
-    cd nama-repositori-ini
+    git clone https://github.comSahrulRamadhanHardiansyah/gemini-supabase-chatbot.git
+    cd gemini-supabase-chatbot
     ```
 
 2.  **Install semua dependensi:**
